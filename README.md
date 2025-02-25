@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Setareh
 
-🚀 **Find the Right Question | AI & Data Science |**  
+🚀 **| AI & Data Science | Trying to Find the Right Question**  
 
 - 💡 **AI Scientist & Project Lead** | Specializing in AI for healthcare & Education.  
 - 🔬 **PhD in Computational Physics** | Expertise in mathematical modeling, data analytics & algorithm optimization.  

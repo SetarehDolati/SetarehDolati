@@ -15,8 +15,6 @@
 ## 📌 Pinned Projects  
 🔹 **[AI Interviewer](https://github.com/SetarehDolati/AI-Interviewer)** - Intelligent health questionnaire powered by AI & scientific literature.  
 
-## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SetarehDolati&show_icons=true&theme=radical)  
-Previously contributed to AI/ML projects at [inne] (private GitHub) with [another account](https://github.com/seta-inne). While those contributions aren’t reflected here, I’ve worked on production-grade ML algorithms, data pipelines and advanced analytics."
----  
+Previously contributed to AI/ML projects at [inne] (private GitHub) with [another account](https://github.com/seta-inne). While those contributions aren’t reflected here, I’ve worked on production-grade ML algorithms, data pipelines and advanced analytics.
+ 
 💡 Always excited to connect and collaborate on impactful AI/ML projects! Reach out anytime. 🚀

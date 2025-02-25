@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Setareh
 
-<!--
-**SetarehDolati/SetarehDolati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Find the Right Question | AI & Data Science |**  
 
-Here are some ideas to get you started:
+- 💡 **AI Scientist & Project Lead** | Specializing in AI for healthcare & Education.  
+- 🔬 **PhD in Computational Physics** | Expertise in mathematical modeling, data analytics & algorithm optimization.  
+- 🤖 **Passionate about Responsible & Trustworthy AI**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me  
+📩 **Email:** [dolati.setareh@gmail.com](mailto:dolati.setareh@gmail.com)  
+🌍 **Website:** [coming soon]  
+🔗 **LinkedIn:** [linkedin.com/in/dolatisetareh](https://www.linkedin.com/in/dolatisetareh/)  
+📂 **GitHub:** [github.com/SetarehDolati](https://github.com/SetarehDolati)  
+
+## 📌 Pinned Projects  
+🔹 **[AI Interviewer](https://github.com/SetarehDolati/AI-Interviewer)** - Intelligent health questionnaire powered by AI & scientific literature.  
+
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SetarehDolati&show_icons=true&theme=radical)  
+Previously contributed to AI/ML projects at [inne] (private GitHub) with [another account](https://github.com/seta-inne). While those contributions aren’t reflected here, I’ve worked on production-grade ML algorithms, data pipelines and advanced analytics."
+---  
+💡 Always excited to connect and collaborate on impactful AI/ML projects! Reach out anytime. 🚀

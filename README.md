@@ -2,7 +2,7 @@
 
 🚀 **| AI & Data Science | Trying to Find the Right Question |**  
 
-- 💡 **AI Scientist & Project Lead** | Specializing in AI for healthcare & Education.  
+- 💡 **AI Scientist & Project Lead** | Specialized in AI for healthcare & Education.  
 - 🔬 **PhD in Computational (Bio)Physics** | Expertise in mathematical modeling, data analytics & algorithm optimization.  
 - 🤖 **Passionate about Responsible & Trustworthy AI**  
 
